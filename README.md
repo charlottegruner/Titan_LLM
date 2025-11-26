@@ -1,5 +1,7 @@
 # Titan_LLM
 
+Google doc https://docs.google.com/document/d/17r1bUmduTgJ821spLmGmpsF--PjTYqBUEEV4X-Gn4vo/edit?usp=sharing
+
 ### Dependencies
 - youtube-transcript-api: https://pypi.org/project/youtube-transcript-api/
 - pyPDF2: https://pypi.org/project/PyPDF2/
@@ -46,3 +48,11 @@ To contribute to this project or clone it using SSH, follow these steps:
 - [x] gather adequate training data
 - [ ] vectorize data
 - [ ] train model
+- [ ] Take a look at Flask for front end  (Also discussed VUE, svelt)
+- [ ] go through demo 2 on http://github.com/cs50/ai-workshop
+- [ ] go through demo 3 on http://github.com/cs50/ai-workshop
+- [ ] Greg upload code to go from youtube playlistID to videoID
+- [ ] Any documentation on failed youtube videoIDs figure out why
+- [ ] Why the open stax textbook failed embeddings
+- [ ] Codespaces?  How hard is it? Still free? Would this be a possibilty for an environment for COSC 1010?
+- [ ] Could the Titan be a server for this project?
